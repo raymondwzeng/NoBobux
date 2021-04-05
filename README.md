@@ -1,3 +1,4 @@
+![Demonstration](https://i.imgur.com/yy9qbPW.jpg)
 # NoBobux
  Hides your Robux while on any Roblox subdomain.
 
