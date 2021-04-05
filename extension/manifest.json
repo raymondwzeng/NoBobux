@@ -1,0 +1,13 @@
+{
+    "name":"NoBobux",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Hides your Robux count on Roblox websites. That's it.",
+    "author": "MacAndSwiss",
+    "content_scripts": [{
+        "matches": ["*://*.roblox.com/*"],
+        "js": ["content.js"],
+        "run_at":"document_end"
+    }],
+    "permissions":["https://*.roblox.com/"]
+}
