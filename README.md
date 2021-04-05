@@ -11,7 +11,7 @@ Look at the source. It's 2 lines. I commented what they do.
 
 ## Wait, why can't I just download it on the Chrome webstore™?
 
-Because I'm too poor and/or too cheap to upload it. ¯\_(ツ)_/¯
+Because I'm too poor and/or too cheap to upload it. ¯\\_(ツ)_/¯
 
 (Plus the review process takes time)
 
