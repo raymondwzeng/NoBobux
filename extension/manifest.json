@@ -11,7 +11,7 @@
     "content_scripts": [{
         "matches": ["*://*.roblox.com/*"],
         "js": ["content.js"],
-        "run_at":"document_end"
+        "run_at":"document_idle"
     }],
     "permissions":["https://*.roblox.com/"]
 }
